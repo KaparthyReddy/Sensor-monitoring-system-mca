@@ -89,8 +89,6 @@ Status: ALERT - FLAME TEMPERATURE
 
 For a clearer understanding of the sensor and indicator wiring, refer to the schematic diagram below:
 
-> **Note:** This diagram is a placeholder. You can replace it with an actual schematic (`circuit_diagram.png`) once you've wired the system on a breadboard or in a simulation tool like Tinkercad or Fritzing.
-
 ![Hardware Circuit Diagram](circuit_diagram.png)
 
 
